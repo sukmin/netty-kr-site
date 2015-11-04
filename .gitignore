@@ -13,3 +13,10 @@ hs_err_pid*
 
 #mac 
 .DS_Store
+
+#maven bin
+/target/
+.classpath
+.project
+/.settings/
+/bin/
